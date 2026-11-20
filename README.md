@@ -21,4 +21,5 @@ Live: https://arthaarthee.com (GitHub Pages, custom domain via `CNAME`)
 - Booking link for "Book a call"
 - Scope text for the 32 offerings; client requirements and engagement approach for the 8 services
 - Approach steps on the About page to be confirmed
+- When building the live site, drop wireframe-only elements: the top legend line ("wireframe v3 — fresh layout…"), the browser bar mock-up, all "//" section labels and yellow notes
 - Repo transfer to the client's GitHub organisation (current owner keeps Owner role)
